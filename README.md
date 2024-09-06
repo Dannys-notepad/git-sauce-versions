@@ -6,7 +6,7 @@ Git-sauce is a simple light weight CLI tool powered by `nodejs`, for easing git 
 This repository contains previous to present versions of Git-sauce, to understand how the tool works how tp use visit the official repo https://github.com/Dannys-notepad/git-sauce and read the tool's documentation
 
 ### Note:
-The current version `Git-sauce v1.2.2` is for Andriod/Termux users only, but no worries `Git-sauce v2.0.0` is under development and for crossplatform use, more exciting features coming also, anticipate :)
+`Git-sauce v2.0.0` has now been completed with more cool features added go and try it out ;)
 
 ## License
 
